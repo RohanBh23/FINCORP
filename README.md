@@ -8,7 +8,7 @@
 
 ## Some important details about the dataset:
 
- - In the complaint label column O represents Non-Complaint instances and 1 represents Complaint Instances. 
+ - In the complaint label column 0 represents Non-Complaint instances and 1 represents Complaint Instances. 
  - The complaint severity level classes are : Accusation, Blame, Disapproval, No explicit reproach, Non-Complaint
  - The sentiment classes are : Negative, Neutral, Positive
  - The emotion classes are : Anger, Disgust, Fear, Happiness, Sadness, Surprise, Other
