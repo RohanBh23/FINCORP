@@ -1,5 +1,6 @@
-# FINCORP-Financial-Complaint-Corpus-for-Sentiment-and-Emotion-aware-Complaint-Identification
+# FINCORP
 
+- Financial Complaint Corpus for Sentiment and Emotion aware Complaint Identification
 - Research: Emotion and Sentiment Aware Complaint Identification in Financial Domain
 
 - Dataset: FINancial Complaint CORpus (FINCORP)
