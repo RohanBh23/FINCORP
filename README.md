@@ -5,7 +5,7 @@
 
 - Dataset: FINancial Complaint CORpus (FINCORP)
 
-- Description: Each record in the FINCORP dataset consists of the domain, Complain/Opinion, and their corresponding annotated complaint, complaint severity, sentiment, and emotion labels.
+- Description: Each record in the FINCORP dataset consists of the domain, Complaint/Opinion, and their corresponding annotated complaint, complaint severity, sentiment, and emotion labels.
 
 ## Some important details about the dataset:
 
